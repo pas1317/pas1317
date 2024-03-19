@@ -1,0 +1,14 @@
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\bin\Debug\net8.0\primera clase.exe
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\bin\Debug\net8.0\primera clase.deps.json
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\bin\Debug\net8.0\primera clase.runtimeconfig.json
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\bin\Debug\net8.0\primera clase.dll
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\bin\Debug\net8.0\primera clase.pdb
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.AssemblyInfoInputs.cache
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.AssemblyInfo.cs
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.csproj.CoreCompileInputs.cache
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.dll
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\refint\primera clase.dll
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.pdb
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\primera clase.genruntimeconfig.cache
+D:\ProyectoVisualStudio\pasquario.Carlos\primera clase\obj\Debug\net8.0\ref\primera clase.dll
